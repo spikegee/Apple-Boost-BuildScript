@@ -4,3 +4,5 @@ build/
 *.tar.bz2
 
 .DS_Store
+include/*
+lib/*
